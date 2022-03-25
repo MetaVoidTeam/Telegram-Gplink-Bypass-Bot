@@ -1,0 +1,7 @@
+pyrogram
+bs4
+urllib3
+cloudscraper
+beautifulsoup4
+lxml
+tgcrypto==1.2.2
