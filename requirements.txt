@@ -1,6 +1,4 @@
-pyrogram
-bs4
-urllib3
+pyrogram==1.4.16
 cloudscraper
 beautifulsoup4
 lxml
